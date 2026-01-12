@@ -1,5 +1,4 @@
-# Excel-Data-Cleaning-And-Dashbord-Project1
-# Project Title and Dashboard Image
+# Insurance Charge Excel Dataset- Data Cleaning and Dashboard Project
 Add your screenshot image so visitors can immediately see the result. You can host the image within the repository and link to its raw URL in the README file.
 # Project Objective
 State the goal of the analysis.
