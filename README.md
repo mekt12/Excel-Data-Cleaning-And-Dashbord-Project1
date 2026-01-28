@@ -6,6 +6,6 @@ The purpose of this project is to preprocess an insurace charges data in Excel b
 # Tools used
 Pivot tables, charts and slicers are used for analysis and visualization.
 # Key findings and insights
-The featues or variables that most affected the target variable 'Charges' are 'Smoker', 'BMI', and 'Age' respectively. Smokers paid significantly higher than non-smokers for healthcare insurance. Individuals with BMI ststus of obesity paid higher insurance charges than other BMI statuses. And finally, individuals in the age group of 46-64 paid higher insurance than other age groups. The features 'Number if children' and 'Region' also had some influence in insurance charge of individuals.
+The featues or variables that most affected the target variable 'Charges' are 'Smoker', 'BMI', and 'Age' respectively. Smokers paid significantly higher than non-smokers for healthcare insurance. Individuals with BMI ststus of obesity paid higher insurance charges than other BMI statuses. And finally, individuals in the age group of 46-64 paid higher insurance than other age groups. The features 'Number of children' and 'Region' in the data also have some influence in healthcare insurance charges of individuals.
 
 
