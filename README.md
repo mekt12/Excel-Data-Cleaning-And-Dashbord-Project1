@@ -2,7 +2,7 @@
 <img width="1952" height="1220" alt="image" src="https://github.com/user-attachments/assets/919c6b85-62d7-4b89-b1e3-c000855b7414" />
 
 # Objective
-The purpose of this project is to preprocess an insurace charges data in Excel by cleaning, standardizing, and formatting it for analysis. once the data is cleaned, analysis is performed using Pivot Tables; charts are generated from the pivot tables to visualize the findings and insights of the analysis.
+The purpose of this project is to preprocess an insurace charges data in Excel by cleaning, standardizing, and formatting it for analysis. Once the data is cleaned, analysis is performed using Pivot Tables; charts are generated from the pivot tables to visualize the findings and insights of the analysis.
 # Tools used
 Pivot tables, charts and slicers were used for analysis and visualization.
 # Key findings and insights
